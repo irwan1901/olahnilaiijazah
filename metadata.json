@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Pengolahan Nilai Kelas 6",
+  "description": "Aplikasi pengolahan nilai ijazah kelas 6 dengan integrasi Google Sheets, fitur rekapitulasi, rapor, analisis, dan ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
